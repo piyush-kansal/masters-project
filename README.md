@@ -9,6 +9,7 @@ masters-project
 	- to globally sort the alignments produced by bwa/bowtie2 program
 	- to extract these alignments from HDFS to local file system
 
+
 - Used MapReduce, Hadoop, Java, sequence aligners Bowtie2 and Bwa, sequence storage map Samtools, Linux
 
 - Note: The code present in this repository is only for the part which I developed. So, it has to plugged in into the core Jnomics framework to build and use it. Here is the link for Jnomics: http://sourceforge.net/apps/mediawiki/jnomics/index.php?title=Jnomics
