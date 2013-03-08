@@ -10,6 +10,11 @@ masters-project
 	- to extract these alignments from HDFS to local file system
 
 
+- As a part of second semester, I implemented following:
+	- to leverage Tophat and Cufflinks and plug them in Jnomics to do RNA expression analysis much more efficiently in terms of time
+	- reduced the traditional execution time from 45 hours to just 2 hours !!
+
+
 - Used MapReduce, Hadoop, Java, sequence aligners Bowtie2 and Bwa, sequence storage map Samtools, Linux
 
 - Note: The code present in this repository is only for the part which I developed. So, it has to plugged in into the core Jnomics framework to build and use it
